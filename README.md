@@ -169,12 +169,4 @@ Planned improvements include:
 
 Data Analytics | Business Intelligence | Data Visualization | R Shiny Development | Machine Learning
 
-- LinkedIn: [Add Link]
-- Portfolio: [Add Link]
-- GitHub: [Add Link]
 
----
-
-## Repository Description
-
-Interactive R Shiny dashboard for exploring global civilian firearm ownership patterns, military population metrics, regional comparisons, and correlation analysis through dynamic visualizations and user-driven exploration.
